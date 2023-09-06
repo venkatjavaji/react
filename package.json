@@ -1,0 +1,20 @@
+{
+  "name": "local",
+  "version": "1.0.0",
+  "description": "local react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "local",
+    "practise",
+    "react"
+  ],
+  "author": "vj",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
